@@ -1,0 +1,4 @@
+DB 서버
+
+1. Oracle
+2. MySQL
