@@ -5,3 +5,4 @@
 3. JavaScript
 4. JSP
 5. Spring Framework
+6. 디테일 페이지 보여주기
