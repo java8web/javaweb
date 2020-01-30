@@ -5,3 +5,4 @@
 3. JavaScript
 4. JSP
 5. Spring Framework
+6. 장바구니 담기
