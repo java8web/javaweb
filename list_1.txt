@@ -6,3 +6,4 @@
 4. JSP
 5. Spring Framework
 6. 장바구니 담기
+7. 디테일 페이지 보여주기
